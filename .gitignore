@@ -1,0 +1,29 @@
+# --- Build and binary files ---
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+
+# --- Competitive Companion / CP Helper files ---
+*.cph
+
+# --- Text / temporary files ---
+*.txt
+*.log
+*.tmp
+
+# --- IDE and editor settings ---
+.vscode/
+.idea/
+*.code-workspace
+
+
+
+
+# --- Miscellaneous ---
+*.zip
+*.rar
+*.7z
